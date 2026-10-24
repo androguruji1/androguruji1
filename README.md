@@ -16,16 +16,19 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🚧 Coming soon |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
-> These are **paid tools**, so the source code stays private. You'll find demos, updates and releases here.
+> These are **paid tools**, so the source code stays private. You'll find demos, updates and releases here — and buy links on [my store](https://superprofile.bio/androguruji).
 
 ---
 
-## 🎁 Products for Editors
+## 🛒 Shop — Products for Editors
 
 - **330+ Trending MOGRTs for Premiere Pro** — ready-to-use animated text templates
+- **1000+ Preset Pack for Premiere Pro**
+- **AnyFind Plugin**
+- **1:1 Personal Coaching** — book a session with me
 - **ANDRO Assets Library** *(coming soon)* — SFX, music, MOGRTs, transitions and presets, all in one place
 
-To buy or get details, DM me on Instagram or join my Telegram 👇
+[![Shop Now](https://img.shields.io/badge/🛒_Shop_Now-superprofile.bio%2Fandroguruji-7C3AED?style=for-the-badge)](https://superprofile.bio/androguruji)
 
 ---
 
