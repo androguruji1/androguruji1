@@ -12,7 +12,7 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 | Tool | What it does | Status |
 |---|---|---|
-| **Mogrt Font Fixer** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🚧 Coming soon |
+| **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🚧 Coming soon |
 | **BestDownloader** | My upcoming tool — details coming soon | 🚧 In progress |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
@@ -47,6 +47,3 @@ Check out my **Super Editors** series on Instagram — every episode teaches one
 
 [![YouTube](https://img.shields.io/badge/YouTube-androguruji-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@androguruji)
 [![Instagram](https://img.shields.io/badge/Instagram-androguruji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/androguruji)
-[![Telegram](https://img.shields.io/badge/Telegram-androgurujiofficial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/androgurujiofficial)
-
-⭐ **Follow** for updates on new tools!
