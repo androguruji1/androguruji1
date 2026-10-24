@@ -1,52 +1,52 @@
-# Namaste 🙏 Main Vikas hun — Androguruji
+# Hi there 👋 I'm Vikas — Androguruji
 
-**Video editor · YouTube creator · Editing agency owner · AI tool builder**
+**Video Editor · YouTube Creator · Editing Agency Owner · AI Tool Builder**
 
-Delhi se hun. Saalon se video editing aur YouTube (**@androguruji**) pe tech content bana raha hun. Ab AI ki madad se editors ke liye apne khud ke tools bana raha hun — jo kaam roz haath se karna padta hai, use automatic karne wale tools.
+Based in Delhi, India. I've spent years in video editing and creating tech content on YouTube (**@androguruji**). Now I'm using AI to build my own tools for editors — tools that automate the repetitive work we all do by hand every day.
 
-> Editor pehle, coder baad me. Tools wahi banata hun jinki zarurat mujhe khud apni agency me padti hai.
+> Editor first, coder second. I build the tools my own agency actually needs.
 
 ---
 
-## 🛠️ Main kya bana raha hun
+## 🛠️ What I'm Building
 
-| Tool | Kya karta hai | Status |
+| Tool | What it does | Status |
 |---|---|---|
-| **Mogrt Font Fixer** | Premiere Pro me MOGRT install karte hi uske missing fonts khud dhoondh ke install kar deta hai — naye aur purane dono MOGRTs ke liye. Mac + Windows. | 🚧 Coming soon |
-| **BestDownloader** | Mera naya tool — details jaldi share karunga | 🚧 In progress |
-| **MOGRT Builder** | After Effects automation jo ek saath sainkdon animated text MOGRTs bana deta hai | ⚙️ In-house tool |
+| **Mogrt Font Fixer** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🚧 Coming soon |
+| **BestDownloader** | My upcoming tool — details coming soon | 🚧 In progress |
+| **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
-> Ye tools **paid** hain, isliye code private rehta hai. Yahan demos, updates aur releases milenge.
+> These are **paid tools**, so the source code stays private. You'll find demos, updates and releases here.
 
 ---
 
-## 🎁 Editors ke liye products
+## 🎁 Products for Editors
 
 - **330+ Trending MOGRTs for Premiere Pro** — ready-to-use animated text templates
-- **ANDRO Assets Library** *(jaldi aa rahi hai)* — SFX, music, MOGRTs, transitions, presets, sab ek jagah
+- **ANDRO Assets Library** *(coming soon)* — SFX, music, MOGRTs, transitions and presets, all in one place
 
-Kharidne ya details ke liye Instagram pe DM karo ya Telegram join karo 👇
-
----
-
-## 🎬 Meri editing agency
-
-Meri team **Reels / Shorts** aur **YouTube videos** edit karti hai — creators, UGC aur brands ke liye, India aur international clients dono ke saath.
-
-Pehle broadcast industry me kaam kar chuka hun (Goldmines Telefilms, Mumbai), 2024 se khud ki agency chala raha hun.
+To buy or get details, DM me on Instagram or join my Telegram 👇
 
 ---
 
-## 📚 Seekhna hai?
+## 🎬 My Editing Agency
 
-Instagram pe meri **Super Editors** series dekho — har episode me Premiere Pro ka ek kaam ka feature.
+My team edits **Reels / Shorts** and **YouTube videos** for creators, UGC creators and brands — working with clients in India and internationally.
+
+Background in the broadcast industry (Goldmines Telefilms, Mumbai). Running my own agency since 2024.
 
 ---
 
-## 📲 Connect karo
+## 📚 Want to Learn?
+
+Check out my **Super Editors** series on Instagram — every episode teaches one useful Premiere Pro feature.
+
+---
+
+## 📲 Connect
 
 [![YouTube](https://img.shields.io/badge/YouTube-androguruji-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@androguruji)
 [![Instagram](https://img.shields.io/badge/Instagram-androguruji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/androguruji)
 [![Telegram](https://img.shields.io/badge/Telegram-androgurujiofficial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/androgurujiofficial)
 
-⭐ Naye tools ke updates ke liye profile **Follow** karo!
+⭐ **Follow** for updates on new tools!
