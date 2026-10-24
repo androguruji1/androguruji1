@@ -12,8 +12,8 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 | Tool | What it does | Status |
 |---|---|---|
+| **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | ✅ v1.20 · Launching soon |
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🚧 Coming soon |
-| **BestDownloader** | My upcoming tool — details coming soon | 🚧 In progress |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
 > These are **paid tools**, so the source code stays private. You'll find demos, updates and releases here.
