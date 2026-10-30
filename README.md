@@ -12,7 +12,8 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 | Tool | What it does | Status |
 |---|---|---|
-| **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | ✅ v1.20 · Launching soon |
+| **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | 🛒 **On sale** · v1.26 · [Buy](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro) |
+| **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | 🛒 **On sale** · v2.0 · [Buy](https://superprofile.bio/vp/anyfind-plugin) |
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🆓 **Free** · v2.0 |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
@@ -24,7 +25,8 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 - **330+ Trending MOGRTs for Premiere Pro** — ready-to-use animated text templates
 - **1000+ Preset Pack for Premiere Pro**
-- **AnyFind Plugin**
+- **[BestDownloader](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)** — download from YouTube, Instagram & more straight into Premiere Pro
+- **[AnyFind Plugin](https://superprofile.bio/vp/anyfind-plugin)** — find and import any asset from your packs in one click
 - **1:1 Personal Coaching** — book a session with me
 - **ANDRO Assets Library** *(coming soon)* — SFX, music, MOGRTs, transitions and presets, all in one place
 
