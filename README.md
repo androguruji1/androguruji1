@@ -13,7 +13,7 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 | Tool | What it does | Status |
 |---|---|---|
 | **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | **[Try](https://github.com/androguruji1/bestdownloader/releases/latest)** |
-| **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | **[Try](https://superprofile.bio/vp/anyfind-plugin)** |
+| **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | **[Try](https://github.com/androguruji1/anyfind/releases/latest)** |
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🆓 **Free** · v2.0 |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
