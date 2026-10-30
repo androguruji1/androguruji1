@@ -12,8 +12,8 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 | Tool | What it does | Status |
 |---|---|---|
-| **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | 🆓 **[Try free for 14 days](https://github.com/androguruji1/bestdownloader/releases/latest)** · then [buy](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro) · v1.26 |
-| **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | 🆓 **[Try free for 14 days](https://superprofile.bio/vp/anyfind-plugin)** · v2.0 |
+| **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | **[Try](https://github.com/androguruji1/bestdownloader/releases/latest)** |
+| **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | **[Try](https://superprofile.bio/vp/anyfind-plugin)** |
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🆓 **Free** · v2.0 |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
@@ -23,12 +23,10 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 
 ## 🛒 Shop — Products for Editors
 
-[![Try BestDownloader free for 14 days](https://img.shields.io/badge/🆓_Try_BestDownloader_free-14_days-16A34A?style=for-the-badge)](https://github.com/androguruji1/bestdownloader/releases/latest)
-
 - **330+ Trending MOGRTs for Premiere Pro** — ready-to-use animated text templates
 - **1000+ Preset Pack for Premiere Pro**
-- **[BestDownloader](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)** — download from YouTube, Instagram & more straight into Premiere Pro · **[try it free for 14 days](https://github.com/androguruji1/bestdownloader/releases/latest)**
-- **[AnyFind Plugin](https://superprofile.bio/vp/anyfind-plugin)** — find and import any asset from your packs in one click · **[try it free for 14 days](https://superprofile.bio/vp/anyfind-plugin)**
+- **[BestDownloader](https://superprofile.bio/vp/bestdownloader-%E2%80%93-stock-photos---videos-in-premiere-pro)** — download from YouTube, Instagram & more straight into Premiere Pro
+- **[AnyFind Plugin](https://superprofile.bio/vp/anyfind-plugin)** — find and import any asset from your packs in one click
 - **1:1 Personal Coaching** — book a session with me
 - **ANDRO Assets Library** *(coming soon)* — SFX, music, MOGRTs, transitions and presets, all in one place
 
