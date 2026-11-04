@@ -15,9 +15,10 @@ Based in Delhi, India. I've spent years in video editing and creating tech conte
 | **[BestDownloader](https://github.com/androguruji1/bestdownloader)** | Premiere Pro panel that downloads videos & images from YouTube, Instagram, Pinterest, TikTok, X, Reddit and hundreds more — straight into your project, auto-converted to Premiere-friendly formats. | **[Try](https://github.com/androguruji1/bestdownloader/releases/latest)** |
 | **[AnyFind](https://github.com/androguruji1/anyfind)** | Premiere Pro panel that turns your asset folders into searchable packs — transitions, SFX, LUTs, overlays, MOGRTs — with hover previews and one-click import to the timeline. | **[Try](https://github.com/androguruji1/anyfind/releases/latest)** |
 | **[Mogrt Font Fixer](https://github.com/androguruji1/mogrt-font-fixer)** | Automatically finds and installs missing fonts for your Premiere Pro MOGRTs — for both new and already-installed templates. Mac + Windows. | 🆓 **Free** · v2.0 |
+| **[Podcast Enhance](https://github.com/androguruji1/premiere-podcast-enhance)** | Premiere Pro panel + Chrome extension: one click sends your dialogue (selected clips, In–Out range or the whole timeline) through Adobe Podcast Enhance Speech and drops the clean audio back on the timeline in sync, original muted. macOS. | 🆓 **Open source** · MIT |
 | **MOGRT Builder** | After Effects automation that generates hundreds of animated text MOGRTs in one go | ⚙️ In-house tool |
 
-> **Mogrt Font Fixer is free** — download it from its repo. My paid tools keep their source code private; you'll find demos, updates and buy links on [my store](https://superprofile.bio/androguruji).
+> **Mogrt Font Fixer and Podcast Enhance are free** — Podcast Enhance is fully open source, contributions welcome. My paid tools keep their source code private; you'll find demos, updates and buy links on [my store](https://superprofile.bio/androguruji).
 
 ---
 
